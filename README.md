@@ -6,4 +6,4 @@ Note:
 2. dengan bahasa pemrograman python
 
 Developer: Ahmad Bujay Rimi | Enjay Studio
-| Teknik Informatika, Universitas Esa Unggul
+| Teknik Informatika | Universitas Esa Unggul
